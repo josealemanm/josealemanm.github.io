@@ -7,7 +7,7 @@ subtitle: Mathematics & Finance @ <a href='https://www.umd.edu/'>University of M
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>College Park, MD</p>
    
