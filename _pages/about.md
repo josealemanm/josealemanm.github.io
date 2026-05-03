@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mathematics & Finance @ <a href='https://www.umd.edu/'>University of Maryland</a>
+subtitle: Applied Mathematics & Economics @ <a href='https://www.umd.edu/'>University of Maryland</a>
 
 profile:
   align: right
